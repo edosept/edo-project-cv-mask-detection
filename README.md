@@ -14,3 +14,10 @@ Uses OpenCV pre-trained face detector, combined with skin percentage analysis, t
 The technology enables automated monitoring in public spaces such as hospitals, transport hubs, and government buildings to ensure compliance with health protocols.
 
 ![Result](https://github.com/user-attachments/assets/033ffd54-df09-4080-a52e-c95569a335cb)
+
+## License  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for terms.
+
+**Keep the copyright notice if you use this code. Attribution appreciated but not required.**
+
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
